@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378633343961 349 a0b525f98a16054b500044227d5054f73e4247b6 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\values-v14\values.xml
+1378633344054 17765 702fd3311475c099afc13c0b03375d917cc82018 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\drawable-xxhdpi\ic_launcher.png
+1378633343952 1173 65b07a0c19ae95aa2e08926f515bf7de2f3ed5b1 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\values\values.xml
+1378633343968 335 5d639ec443378f6788348256cae068bb88347d21 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\values-v11\values.xml
+1378633343974 264 0baa56eb0bd946288edb71769782baeeb20d52dd C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\values-sw720dp-land\values.xml
+1378633344008 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\drawable-xhdpi\ic_launcher.png
+1378633343984 3121 c13193c37274d333ac028cc72c260b891662d9d0 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1378633343995 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1378633343942 355 4ac8faa239305652b241a43379dcb8c2af33a963 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\menu\main.xml
+1378633343942 771 bafc6d11d7a1d39067bb576698dbd79297b06be6 C:\AndroidApp\AndroidApp\Demo_AndroidAppProject\Demo_AndroidApp\build\res\all\debug\layout\activity_main.xml
