@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a2cda1-0171-4859-8904-a349e0a71d75" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Demo_AndroidApp/src/main/java/com/example/demo_androidapp/MainActivity.java" afterPath="$PROJECT_DIR$/Demo_AndroidApp/src/main/java/com/example/demo_androidapp/MainActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Demo_AndroidApp.iws" />
@@ -70,7 +69,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Demo_AndroidApp/src/main/java/com/example/demo_androidapp/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="17" selection-start="613" selection-end="613" vertical-scroll-proportion="0.9701087" vertical-offset="0" max-vertical-offset="527">
+            <state line="26" column="1" selection-start="626" selection-end="626" vertical-scroll-proportion="1.1086956" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -404,6 +403,11 @@
       <created>1378633308894</created>
       <updated>1378633308894</updated>
     </task>
+    <task id="LOCAL-00001" summary="Functie giveInt toegevoegd">
+      <created>1378633892209</created>
+      <updated>1378633892209</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -507,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo_AndroidApp/src/main/java/com/example/demo_androidapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="17" selection-start="613" selection-end="613" vertical-scroll-proportion="0.9701087" vertical-offset="0" max-vertical-offset="527">
+        <state line="26" column="1" selection-start="626" selection-end="626" vertical-scroll-proportion="1.1086956" vertical-offset="0" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
